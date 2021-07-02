@@ -8,8 +8,7 @@
 ## I'm a Frontend Developer!!
 
 - ⚡ I Love to Work with MERN Stack!
-- 🌱 I’m have experience to build eCommerce website, Blog website and analytics Admin Panel 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I’m have experience to build eCommerce website, Blog website and analytics Admin Panel.
 - 🥅 2021 Goals: Build Full Stack Project with React Native.
 
 
