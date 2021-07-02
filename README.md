@@ -1,4 +1,4 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hi there, I'm Fahim - [Portfolio][website] 👋
 
 [![Website](https://img.shields.io/website?label=fahhimabdullah.com&style=for-the-badge&url=https%3A%2F%2Ffahimabdullah.com)](http://fahhimabdullah.web.app)
 
@@ -15,9 +15,9 @@
 
 ### Connect with me:
 
-[<img align="center" alt="abdullahalfahim" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="center" alt="abdullahalfahim" width="22px" color="yellow" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
-[<img align="center" alt="abdullahalfahim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="center" alt="abdullahalfahim | LinkedIn" width="22px" color="yellow" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 <br />
