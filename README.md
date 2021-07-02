@@ -1,6 +1,6 @@
-### Hi there, I'm Fahim - [Portfolio][website] 👋
+### Hi there, I'm Fahim 👋
 
-[![Website](https://img.shields.io/website?label=fahhimabdullah.com&style=for-the-badge&url=https%3A%2F%2Ffahimabdullah.com)](http://fahhimabdullah.web.app)
+[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Ffahimabdullah.com)](http://fahhimabdullah.web.app)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codefahim&label=Profile%20views&color=0e75b6&style=flat" alt="codefahim" /> </p>
@@ -13,11 +13,23 @@
 - 🥅 2021 Goals: Build Full Stack Project with React Native.
 
 
+
+### 📺 Best Project
+
+<!-- Project :START -->
+- [MERN Project | GoodDeal (Team Project)](https://github.com/codefahim/GoodDeal)
+- [MERN | Smart Fixer | Service Providing Website](https://github.com/codefahim/Smart-Fixer-Client)
+- [MERN | Heros Diary](https://github.com/codefahim/heros_diary_client)
+
+<!-- Project:END -->
+
+---
+
 ### Connect with me:
 
-[<img align="center" alt="abdullahalfahim" width="22px"  src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-[<img align="left" alt="abdullahalfahim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- [Linkedin](https://www.linkedin.com/in/me-fahim/)
+- [Facebook](https://www.facebook.com/me0fahim)
+-[Email](abdullahalfahhim@gmail.com)
 
 
 <br />
@@ -41,19 +53,6 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [First Look at GitHub Copilot in VS Code | Just Another AI Programming Tool?](https://www.youtube.com/watch?v=calK4DpJV8A)
-- [The Secret Blog Writing Formula That Actually Works](https://www.youtube.com/watch?v=-7ztydZcSgY)
-- [How To Blog #shorts](https://www.youtube.com/watch?v=CGcv1wuwNG0)
-- [Keyword Research #shorts](https://www.youtube.com/watch?v=5X3NjLoqUgQ)
-- [Catchy Blog Titles #shorts](https://www.youtube.com/watch?v=gLwPcnaqSMc)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/codestackr)
-
----
 
 ### 📕 Latest Blog Posts
 
