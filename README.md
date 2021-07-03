@@ -27,9 +27,9 @@
 
 ### Connect with me:
 
-- [Linkedin](https://www.linkedin.com/in/me-fahim/)
-- [Facebook](https://www.facebook.com/me0fahim)
-- [Email](abdullahalfahhim@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/codefahim/)
+- [Facebook](https://www.facebook.com/codefahim)
+- [Email](codeefahim@gmail.com)
 
 
 <br />
