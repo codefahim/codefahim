@@ -1,7 +1,8 @@
 ### Hi there, I'm Fahim 👋
 
-[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Ffahimabdullah.com)](http://fahhimabdullah.web.app)
+[![Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https%3A%2F%2Ffahimabdullah.com)](http://fahhimabdullah.web.app)
 
+[![Website](https://img.shields.io/website?label=Resume&style=for-the-badge&url=https%3A%2F%2Ffahimabdullah.com)](https://drive.google.com/file/d/1on8NkXelxzVtb5B8RDYiJSNl19GHxCb_/view?usp=sharing)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codefahim&label=Profile%20views&color=0e75b6&style=flat" alt="codefahim" /> </p>
 
